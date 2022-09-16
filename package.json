@@ -1,5 +1,5 @@
 {
-  "name": "e-commerce-store",
+  "name": "arc-mobile e-commerce-store",
   "version": "1.0.0",
   "description": "arc mobile e-commerce store",
   "main": "server.js",
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/ramos07/React-Node-E-Commerce-Store.git"
   },
-  "author": "Ricardo Ramos",
+  "author": "Ernest TSAMO",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ramos07/React-Node-E-Commerce-Store/issues"
