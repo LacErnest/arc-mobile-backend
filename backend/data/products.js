@@ -1,5 +1,77 @@
 const products = [
     {
+        name: 'Promotions 30 GO',
+        image: '/images/Arc_Mobile_30GO.PNG',
+        description:
+            'Promotion for 30 Go data Internet',
+        brand: 'Arc Mobile',
+        category: 'Promotion',
+        price: 9.99,
+        countInStock: 10,
+        rating: 4.5,
+        numReviews: 12,
+    },
+    {
+        name: 'Promotions 100 GO',
+        image: '/images/Arc_Mobile_100GO.PNG',
+        description:
+            'Promotion for 100 Go data Internet',
+        brand: 'Arc Mobile',
+        category: 'Promotion',
+        price: 19.99,
+        countInStock: 10,
+        rating: 4.5,
+        numReviews: 12,
+    },
+    {
+        name: 'Voucher 10eur',
+        image: '/images/Arc_Mobile_recharge_10.PNG',
+        description:
+            'Voucher for 10 eur airtime',
+        brand: 'Arc Mobile',
+        category: 'Voucher',
+        price: 10,
+        countInStock: 10,
+        rating: 4.5,
+        numReviews: 12,
+    },
+    {
+        name: 'Voucher 15eur',
+        image: '/images/Arc_Mobile_recharge_15.PNG',
+        description:
+            'Voucher for 15 eur airtime',
+        brand: 'Arc Mobile',
+        category: 'Voucher',
+        price: 15,
+        countInStock: 10,
+        rating: 4.5,
+        numReviews: 12,
+    },
+    {
+        name: 'Voucher 20eur',
+        image: '/images/Arc_Mobile_recharge_20.PNG',
+        description:
+            'Voucher for 20 eur airtime',
+        brand: 'Arc Mobile',
+        category: 'Voucher',
+        price: 20,
+        countInStock: 10,
+        rating: 4.5,
+        numReviews: 12,
+    },
+    {
+        name: 'Voucher 30eur',
+        image: '/images/Arc_Mobile_recharge_30.PNG',
+        description:
+            'Voucher for 30 eur airtime',
+        brand: 'Arc Mobile',
+        category: 'Voucher',
+        price: 30,
+        countInStock: 10,
+        rating: 4.5,
+        numReviews: 12,
+    },
+    {
         name: 'Airpods Wireless Bluetooth Headphones',
         image: '/images/airpods.jpg',
         description:
